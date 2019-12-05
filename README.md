@@ -5,8 +5,10 @@ Turbo HamlogやCtestWinなどで出力したcsv形式のログを読み込んで
 
 東海QSOコンテストや愛・地球博コンテストのジュニア部門やモリコロ部門などでご利用ください．
 
-
 # 使い方
+実行ファイルのダウンロードはJA2YEFのホームページからどうぞ．
+http://ja2yef.isc.chubu.ac.jp/sw.html
+
 Windowsの方は「opCounter.exe（青いアイコン）」をダブルクリックで起動します．
 （MacやLinuxをご利用の方はjarファイルを開いて下さい）
 Javaがインストールされていれば起動します．
